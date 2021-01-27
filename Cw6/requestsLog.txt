@@ -1,0 +1,12 @@
+{
+  "Method": "GET",
+  "Path": "/api/students",
+  "Body": "",
+  "QueryString": ""
+}
+{
+  "Method": "GET",
+  "Path": "/favicon.ico",
+  "Body": "",
+  "QueryString": ""
+}
